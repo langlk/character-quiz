@@ -6,6 +6,19 @@ body {
   background-repeat: no-repeat;
 }
 
+img {
+  padding-top: 20px;
+  max-width: 640px;
+}
+
+form {
+  font-family: 'Cairo', sans-serif;
+}
+
+select {
+  max-width: 300px;
+}
+
 .form-container {
   padding: 20px;
   max-width: 340px;
@@ -27,11 +40,6 @@ body {
   border-radius: 6px;
 }
 
-img {
-  padding-top: 20px;
-  max-width: 640px;
-}
-
 .jumbotron {
   text-align: center;
   font-family: 'Unica One', cursive;
@@ -41,14 +49,6 @@ img {
   font-size: 25px;
 }
 
-select {
-  max-width: 300px;
-}
-
 .btn-success {
   background-color: #3c763d;
-}
-
-form {
-  font-family: 'Cairo', sans-serif;
 }
