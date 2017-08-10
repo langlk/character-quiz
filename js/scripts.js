@@ -9,7 +9,7 @@ $(document).ready(function() {
     });
 
     var indexOfMax = scores.indexOf(Math.max.apply(null, scores));
-    $("form").hide();
+    $(".form-container").hide();
     if (indexOfMax === 0) {
       $(".mr-poopybutthole").show();
     } else if (indexOfMax === 1) {

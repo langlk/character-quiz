@@ -1,3 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo|Unica+One');
+
+body {
+  background-color: black;
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+}
+
+.form-container {
+  padding: 20px;
+  max-width: 340px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 6px;
+}
+
 .mr-poopybutthole, .birdperson, .summer, .mr-meeseeks {
   display: none;
+  text-align: center;
+  font-family: 'Cairo', sans-serif;
+  padding: 20px;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 6px;
+}
+
+img {
+  padding-top: 20px;
+  max-width: 640px;
+}
+
+.jumbotron {
+  text-align: center;
+  font-family: 'Unica One', cursive;
+}
+
+.jumbotron p {
+  font-size: 25px;
+}
+
+select {
+  max-width: 300px;
+}
+
+.btn-success {
+  background-color: #3c763d;
+}
+
+form {
+  font-family: 'Cairo', sans-serif;
 }
