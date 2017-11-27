@@ -10,7 +10,7 @@ Quiz to determine which character from _Rick and Morty_ the user is, based on th
 
 ## Setup/Installation Requirements
 
-_View on GitHub pages at [langlk.github.io/hogwarts-quiz](https://langlk.github.io/character-quiz/). To install on your computer follow the steps below:_
+_View on GitHub pages at [langlk.github.io/character-quiz](https://langlk.github.io/character-quiz/). To install on your computer follow the steps below:_
 
 * Clone this repository
 * Open index.html in web browser of your choice
